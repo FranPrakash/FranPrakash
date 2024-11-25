@@ -10,7 +10,6 @@
 
 🎧 I love listening to podcasts, cooking up something delicious, and learning about the universe—especially black holes!
 
-📫 Hit me up: https://www.linkedin.com/in/franprakash/
 <!---
 FranPrakash/FranPrakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
