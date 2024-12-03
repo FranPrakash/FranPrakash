@@ -8,7 +8,7 @@
 
 ⚡ Fun fact: I have an identical twin sister, and we were born on different days!
 
-🎧 I love listening to podcasts, cooking up something delicious, and learning about the universe—especially black holes!
+🎧 I love listening to podcasts, cooking up something delicious, and learning about the universe.
 
 <!---
 FranPrakash/FranPrakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
