@@ -1,15 +1,11 @@
-👋 Hi, I’m @FranSantos
+👋 Hi, I’m Fran!
+I’m an iOS Engineer passionate about creating intuitive user experiences through code, design, and data.
 
-👀 I’m into UX/UI design, data analysis and software development
+💡 I’m especially interested in iOS development, UX/UI design, and exploring how AI can enhance everyday apps.
 
-🌱 Currently diving into Java, SQL, and building cool projects!
+✨ Fun fact: I have an identical twin sister, and we were born on different days!
 
-💞️ I’m looking to collaborate on all things tech, design, and data
-
-⚡ Fun fact: I have an identical twin sister, and we were born on different days!
-
-🎧 I love listening to podcasts, cooking up something delicious, and learning about the universe.
-
+🎧 Outside of tech, you’ll find me listening to podcasts, experimenting in the kitchen, watching shows, and spending quality time with family.
 <!---
 FranPrakash/FranPrakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
