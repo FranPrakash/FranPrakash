@@ -2,7 +2,7 @@
   <h1>👋 Hi, I'm Fran Santos </h1>
 </div>
 
-📱 I'm an iOS Engineer passionate about building user-friendly apps using Swift & SwiftUI.<br>🎨 I'm also interested in UI/UX design and exploring how AI can enhance mobile experiences.<br>🎧 When I’m not coding, I enjoy listening to podcasts and audiobooks, traveling, and watching good shows.
+📱 I'm an iOS Software Engineer passionate about building user-friendly apps using Swift & SwiftUI.<br>🎨 I'm also interested in UI/UX design and exploring how AI can enhance mobile experiences.<br>🎧 When I’m not coding, I enjoy listening to podcasts and audiobooks, traveling, and watching good shows.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FranPrakash&theme=radical&no-frame=false&no-bg=false&margin-w=4)
