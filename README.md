@@ -1,12 +1,11 @@
 <div align="center">
-  <h2>👋 I'm Fran!</h2>
-  
-  <p>👩‍💻 I'm an iOS Engineer passionate about building user-friendly apps using Swift & SwiftUI.</p>
-  <p>🤖 I'm especially interested in UI/UX design and exploring how AI can enhance mobile experiences.</p>
-  <p>🎧 I enjoy listening to podcasts and audiobooks, traveling, watching shows, and spending time with my family.</p>
+  <h2>👋 Hello! I'm Fran</h2>
 </div>
 
----
+
+*   📱 I'm an iOS Engineer passionate about building user-friendly apps using Swift & SwiftUI.
+*   🎨 I'm also interested in UI/UX design and exploring how AI can enhance mobile experiences.
+*   🎧 When I’m not coding, I enjoy listening to podcasts and audiobooks, traveling, and watching good shows.
 
 ### 💬 Connect with me:
 
