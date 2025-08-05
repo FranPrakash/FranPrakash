@@ -1,23 +1,10 @@
 <div align="center">
   <h2>👋 I'm Fran!</h2>
-  <p><small>iOS Engineer passionate about building clean, user-friendly apps</small></p>
+  
+  <p>👩‍💻 I'm an iOS Engineer passionate about building user-friendly apps using Swift & SwiftUI.</p>
+  <p>🤖 I'm especially interested in UI/UX design and exploring how AI can enhance mobile experiences.</p>
+  <p>🎧 I enjoy listening to podcasts and audiobooks, traveling, watching shows, and spending time with my family.</p>
 </div>
-
-<p align="justify">
-  <small>
-    💡 <b>What I Enjoy:</b><br>
-    • iOS development with Swift & SwiftUI<br>
-    • UI/UX design and user-centered thinking<br>
-    • Exploring how AI can improve mobile experiences
-    <br><br>
-    🎧 <b>When I’m Not Coding, I like to :</b><br>
-    • Listening to podcasts and audiobooks<br>
-    • Learning about the universe<br>
-    • Watching good shows<br>
-    • Spending quality time with family
-  </small>
-</p>
-
 
 ---
 
@@ -26,8 +13,6 @@
 <a href="https://www.linkedin.com/in/franprakash" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-
----
 
 ### 💻 Languages and Tools:
 
@@ -51,8 +36,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
-
----
 
 ### 📊 My GitHub Stats:
 
